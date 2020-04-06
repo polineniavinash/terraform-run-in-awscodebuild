@@ -14,10 +14,10 @@ Steps for this example
 
 Choose a region, everything will be created in that region
 
-1 -- run the cloudformation file
+1 - run the cloudformation file
 -------------------------------
 
-This will create 3 objects:
+This will create 3 objects :
 
 1. A codebuild role with administrator access
 2. An S3 bucket where the tfstate file will be saved

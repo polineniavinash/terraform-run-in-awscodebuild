@@ -14,7 +14,7 @@ Steps for this example
 
 Choose a region, everything will be created in that region
 
-1 - run the cloudformation file
+1 -- run the cloudformation file
 -------------------------------
 
 This will create 3 objects:

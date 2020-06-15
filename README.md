@@ -1,4 +1,4 @@
-Why Run Terraform inside AWS Codebuild
+Why Running Terraform inside AWS Codebuild
 ==================================
 
 1. Every person in the company can create infrastructure using Terraform, without any configuration in their own laptop.
